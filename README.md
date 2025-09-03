@@ -1,2 +1,6 @@
 # My-First-App
-Hi guys Iam a college student and I have made an android app , I have put all my efforts into it . I am 18 years old and a beginner , If want to check You can download my app . Thank you.
+##  Download
+Get the latest APK under the **Releases** tab or directly:
+[Download Latest (v1.0.0)](https://github.com/Sourush/My-First-App/releases/latest)
+Made by Sourush — 18 years old, college student, beginner with a dream.  
+Your support = my motivation.
